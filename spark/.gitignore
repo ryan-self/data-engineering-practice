@@ -1,2 +1,6 @@
+# sbt
 project
 target
+
+# IntelliJ
+.bsp

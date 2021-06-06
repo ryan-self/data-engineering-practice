@@ -3,7 +3,6 @@ package com.dep.spark.wordcount
 import java.nio.file.{Files, StandardOpenOption}
 import org.apache.commons.io.FileUtils
 import org.apache.commons.io.filefilter._
-import thoughtworks.DefaultFeatureSpecWithSpark
 
 
 class WordCountTest extends DefaultFeatureSpecWithSpark {

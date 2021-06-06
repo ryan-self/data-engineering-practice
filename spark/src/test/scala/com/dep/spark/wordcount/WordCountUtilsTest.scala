@@ -1,7 +1,5 @@
 package com.dep.spark.wordcount
 
-import thoughtworks.DefaultFeatureSpecWithSpark
-
 import scala.collection.mutable
 
 

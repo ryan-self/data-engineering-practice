@@ -1,5 +1,6 @@
 package com.dep.spark.wordcount
 
+import com.dep.spark.cli.wordcount.WordCount
 import java.nio.file.{Files, StandardOpenOption}
 import org.apache.commons.io.FileUtils
 import org.apache.commons.io.filefilter._

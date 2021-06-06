@@ -1,0 +1,5 @@
+#!/usr/bin/env zsh
+
+echo "Getting environment ready..."
+source ~/.zshrc
+sdk env

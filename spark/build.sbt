@@ -9,7 +9,7 @@ lazy val root = (project in file(".")).
       version := "0.1.0-SNAPSHOT"
     )),
 
-    name := "de-pipeline",
+    name := "de-spark",
     libraryDependencies ++= Seq(
       "org.apache.spark" %% "spark-core" % sparkVersion,
       "org.apache.spark" %% "spark-sql" % sparkVersion,
